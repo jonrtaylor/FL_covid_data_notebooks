@@ -11,4 +11,6 @@ FL_County_level_health_metrics_weekly_deltas_to_csv.ipynb is a Google Colaborato
 
 FL_State_level_health_metrics_weekly_data_to_csv.ipynb is a Google Colaboratory notebook which anyone can use to download the weekly update for the entire State of Florida which reports data on positivity rate and other metrics of note which previously was not readily accessable. This data is reported by the State of Florida's Covid Dashboard. From: https://fdoh.maps.arcgis.com/home/item.html?id=951e4dbc68a74b92b53dab97006c43f7
 
+FL_hospital_bed_census_data_to_csv.ipynb is a Google Colaboratory notebook which anyone can use to download the current hospital bed census for the entire State of Florida which reports data on hospital bed availability and other metrics of note which previously was not readily accessable. Nikki Fried and the press are liars when they say this data is not available (I'm calling you out, @nikkifried !) From: https://services.arcgis.com/3wFbqsFPLeKqOlIK/ArcGIS/rest/services/HOSPITALS_esri/FeatureServer/0
+
 Please tweet me @prof_JTaylor if you have comments or questions.
