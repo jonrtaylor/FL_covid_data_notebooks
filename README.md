@@ -7,8 +7,6 @@ FL_daily_deaths_to_csv.ipynb is a Google Colaboratory notebook which anyone can 
 
 FL_cases_by_day_for_timeseries_analysis_to_csv.ipynb is a Google Colaboratory notebook which anyone can use to download the daily reported Covid cases for each County in Florida as reported by the State of Florida's Covid Dashboard. From: https://fdoh.maps.arcgis.com/home/item.html?id=452ab45aaa714042b3d61c741f851d5a
 
-FL_latest_caseline_file_with_death_updates.ipynb is a Google Colaboratory notebook which anyone can use to download the latest caseline file as two separate CSV files. The first file is the new cases, with age and county information. The second file is the deaths file, which has the person's age and County. This file can be downloaded directly as an excel file in: http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/
-
 FL_County_level_health_metrics_weekly_deltas_to_csv.ipynb is a Google Colaboratory notebook which anyone can use to download the weekly update for each County in Florida which reports County-level data on positivity rate and other metrics of note which previously was not readily accessable. An example is provided to assist the user in slicing the data for a specific County. This data is reported by the State of Florida's Covid Dashboard. From: https://fdoh.maps.arcgis.com/home/item.html?id=492f02b473df4c8f8aa68fedf420c933
 
 FL_State_level_health_metrics_weekly_data_to_csv.ipynb is a Google Colaboratory notebook which anyone can use to download the weekly update for the entire State of Florida which reports data on positivity rate and other metrics of note which previously was not readily accessable. This data is reported by the State of Florida's Covid Dashboard. From: https://fdoh.maps.arcgis.com/home/item.html?id=951e4dbc68a74b92b53dab97006c43f7
@@ -18,3 +16,6 @@ FL_hospital_bed_census_data_to_csv.ipynb is a Google Colaboratory notebook which
 FL_cases_by_county_to_csv.ipynb is a Google Colaboratory notebook which anyone can use to download the daily reported Covid cases for each County in Florida as reported by the State of Florida's Covid Dashboard with more detailed demographics than the cases_by_day notebook above. You'd need to keep every day's file and compare across time to develop meaningful analysis, otherwise the file reports the latest data available which is still quite useful. From: https://open-fdoh.hub.arcgis.com/datasets/florida-covid19-cases-by-county
 
 Please tweet me @prof_JTaylor if you have comments or questions.
+
+DEPRECATED:
+FL_latest_caseline_file_with_death_updates.ipynb is a Google Colaboratory notebook which anyone can use to download the latest caseline file as two separate CSV files. The first file is the new cases, with age and county information. The second file is the deaths file, which has the person's age and County. This file can be downloaded directly as an excel file in: http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/
